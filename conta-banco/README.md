@@ -3,4 +3,5 @@ Este projeto é uma aplicação Java simples que simula o processo de cadastro d
 
 Tecnologias Utilizadas:
    ° Java: Linguagem de programação utilizada para desenvolver a aplicação.
+   #
    ° Scanner: Classe do Java para leitura de entradas do usuário.
