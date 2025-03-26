@@ -1,4 +1,4 @@
-# Processo Seletivo Simulado em Java
+# Processo Seletivo em Java
 
 ## 📝 Descrição do Projeto
 Este projeto simula um sistema de processo seletivo, desenvolvido em Java como parte do Bootcamp JavaCloudNative oferecido pelo Banco Bradesco na plataforma DIO (Digital Innovation One). O programa analisa candidatos com base em seus salários pretendidos e simula o contato com os selecionados.
